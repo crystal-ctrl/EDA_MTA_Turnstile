@@ -1,3 +1,4 @@
 # EDA_project
-
-[project proposal](project_proposal.md)
+deliverables:
+- [project proposal](project_proposal.md)
+- [MVP](MVP.md)
