@@ -1,4 +1,4 @@
-# EDA Project on MTA Turnstile Data for Subway Station Accessibility Upgrade
+# EDA Project on MTA Turnstile Data
 
 ## deliverables:
 - [project proposal](project_proposal.md)
