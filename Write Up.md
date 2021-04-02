@@ -4,7 +4,7 @@ Crystal Huang
 
 ## Abstract
 
-The goal of this EDA project is to utilize the MTA dataset and recommend placement of subway accessibility upgrades in stations with higher traffic and identity the lower traffic days and times at those popular stations for work schedule to minimize exposure and risk during pandemic. I worked with the weekly MTA turnstile data and the MTA station info data. I used pandas, groupby, and pivot table to perform data cleaning, aggregationa, as well as exploratory data analysis. and After doing an exploratory data analysis, I built some histogram, barplots and heatmaps to visualize and communicate my results.
+The goal of this EDA project is to utilize the MTA dataset and recommend placement of subway accessibility upgrades in stations with higher traffic and identity the lower traffic days and times at those popular stations for work schedule to minimize exposure and risk during pandemic. I worked with the weekly MTA turnstile data and the MTA station info data. I used SQL to generate a database for the data and used pandas, groupby, and pivot table to perform data cleaning, aggregationa, as well as exploratory data analysis. And after doing an exploratory data analysis, I built some histogram, barplots and heatmaps to visualize and communicate my results.
 
 ## Design
 
