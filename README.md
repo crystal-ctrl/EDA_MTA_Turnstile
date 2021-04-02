@@ -11,7 +11,7 @@
 
 - Code: 
   
-  To reproduce my results, run the following in order:\
+  To reproduce my results, run the following in order:
 
    1. [Data scraping](1_data_scraper.ipynb)
    2. [Data cleaning and preparation](2_data_cleaning_n_prep.ipynb)
