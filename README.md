@@ -4,7 +4,7 @@
 - [project proposal](project_proposal.md)
 - [MVP](MVP.md)
 - [Presentation Slides](MTA_EDA_presentation.pdf)
-- [Write up](Write Up.md)
+- [WriteUp](Write Up.md)
 - Code: 
   To reproduce my results, run the following in order:\
    1. [Data scraping](1_data_scraper.ipynb)
