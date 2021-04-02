@@ -3,6 +3,7 @@
 ## deliverables:
 - [project proposal](project_proposal.md)
 - [MVP](MVP.md)
+- [Presentation Slides](MTA_EDA_presentation.pdf)
 - [Write-up]
 - Code: 
   To reproduce my results, run the following in order:\
