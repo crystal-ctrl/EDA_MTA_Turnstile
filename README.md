@@ -6,19 +6,13 @@
 - [MVP](MVP.md)
 
 - [Presentation Slides](MTA_EDA_presentation.pdf)
-<<<<<<< Updated upstream
-[WriteUp](Write Up.md)
-- Code: 
-  To reproduce my results, run the following in order:
-=======
 
 - [Write up](Write Up.md)
 
 - Code: 
   
   To reproduce my results, run the following in order:\
-  
->>>>>>> Stashed changes
+
    1. [Data scraping](1_data_scraper.ipynb)
    2. [Data cleaning and preparation](2_data_cleaning_n_prep.ipynb)
    3. [EDA and visualization](3_EDA_data_vis.ipynb)
