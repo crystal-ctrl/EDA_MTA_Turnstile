@@ -7,7 +7,7 @@
 
 - [Presentation Slides](MTA_EDA_presentation.pdf)
 
-- [Write up](Write Up.md)
+- [Write up](https://github.com/crystal-ctrl/EDA_MTA_Turnstile/blob/d07e63ecac9da8e0aee537d158488024d6ddfb66/Write%20Up.md)
 
 - Code: 
   
