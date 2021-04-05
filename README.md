@@ -21,3 +21,4 @@
    6. [Future work](6_Future_work.ipynb)
 
 
+You can find my blog [here](https://crystalhuang-ds.medium.com/mta-traffic-analysis-for-station-accessibility-upgrade-28744b8e6586)
