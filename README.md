@@ -1,13 +1,9 @@
 # EDA Project on MTA Turnstile Data
 
-## deliverables:
-- [project proposal](project_proposal.md)
+## Contents
+- Slides for my final [presentation](MTA_EDA_presentation.pdf) of the EDA
 
-- [MVP](MVP.md)
-
-- [Presentation Slides](MTA_EDA_presentation.pdf)
-
-- [Write up](https://github.com/crystal-ctrl/EDA_MTA_Turnstile/blob/d07e63ecac9da8e0aee537d158488024d6ddfb66/Write%20Up.md)
+- Short [Written Description](https://github.com/crystal-ctrl/EDA_MTA_Turnstile/blob/d07e63ecac9da8e0aee537d158488024d6ddfb66/Write%20Up.md) of my project
 
 - Code: 
   
@@ -21,4 +17,4 @@
    6. [Future work](6_Future_work.ipynb)
 
 
-You can find my blog [here](https://crystalhuang-ds.medium.com/mta-traffic-analysis-for-station-accessibility-upgrade-28744b8e6586)
+Extras: Read the [blog post](https://crystalhuang-ds.medium.com/mta-traffic-analysis-for-station-accessibility-upgrade-28744b8e6586)
